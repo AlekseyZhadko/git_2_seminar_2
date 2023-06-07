@@ -20,7 +20,7 @@ def NotElement(element):
         return NotElement(element)
     return element
 
-def number_user(number):
+def number_user(number): asd
     try:
         if (int(number)<1 or int(number)>3):
             raise Exception 

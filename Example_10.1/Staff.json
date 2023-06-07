@@ -1,0 +1,19 @@
+{
+    "staff": [
+        {
+            "ID": "0",
+            "FIO": "/FIO Petrov",
+            "phone": "/FIO Petrov"
+        },
+        {
+            "ID": "1",
+            "FIO": "/FIO Ivanov",
+            "phone": "/FIO Ivanov"
+        },
+        {
+            "ID": "2",
+            "FIO": "/FIO Petr",
+            "phone": "/FIO Petr"
+        }
+    ]
+}
