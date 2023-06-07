@@ -1,0 +1,39 @@
+{
+    "staff": [
+        {
+            "ID": "1",
+            "FIO": "Petrov",
+            "phone": "2222"
+        },
+        {
+            "ID": "2",
+            "FIO": "Petuhov",
+            "phone": "2312"
+        },
+        {
+            "ID": "3",
+            "FIO": "Ivanov",
+            "phone": "2121"
+        },
+        {
+            "ID": "4",
+            "FIO": "Sidorov",
+            "phone": "2132"
+        },
+        {
+            "ID": "5",
+            "FIO": "Okta",
+            "phone": "3423"
+        },
+        {
+            "ID": "6",
+            "FIO": "",
+            "phone": ""
+        },
+        {
+            "ID": "7",
+            "FIO": "",
+            "phone": ""
+        }
+    ]
+}
